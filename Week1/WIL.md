@@ -7,7 +7,7 @@
 4.버전 관리
 git은 위의 작업을 가능하게 해주는 오픈소스 소프트웨어이다
 
-##파일의 생명 주기
+## 파일의 생명 주기
 untracked
 unmodified
 modified
@@ -23,7 +23,7 @@ Repository
 Git으로 관리할 대상 등록하기: git add
 파일 수정 후 로컬 저장소로 옮기기: git commit
 
-##GitHub를 사용하는 이유
+## GitHub를 사용하는 이유
 git으로 관리한 파일을 협업할 사람들과 공유하기 위해서는 GitHub를 사용해야 한다
 
 ## 커밋하는 이유
